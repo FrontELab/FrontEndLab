@@ -1,0 +1,113 @@
+@import url("https://fonts.googleapis.com/css2?family=Cairo:wght@200&family=Tajawal:wght@200;300;400&display=swap");
+#cards {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+#cards p {
+  margin: 50px;
+  color: white;
+  font-family: 'Tajawal', sans-serif;
+  font-size: 20px;
+}
+
+#d1 {
+  width: 600px;
+  height: 300px;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  -webkit-box-shadow: 0px 5px 80px #00000029;
+          box-shadow: 0px 5px 80px #00000029;
+  border-radius: 50px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  background-image: url("../images/Path 24.svg");
+}
+
+#d1 div {
+  margin: 20px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+#d1 img {
+  width: 80px;
+  height: 80px;
+}
+
+#d2 {
+  width: 600px;
+  height: 300px;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  -webkit-box-shadow: 0px 5px 80px #00000029;
+          box-shadow: 0px 5px 80px #00000029;
+  border-radius: 50px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  background-image: url("../images/Path 2.svg");
+}
+
+#d2 div {
+  margin: 20px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+#d2 img {
+  width: 80px;
+  height: 80px;
+}
+
+#d3 {
+  width: 600px;
+  height: 300px;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  -webkit-box-shadow: 0px 5px 80px #00000029;
+          box-shadow: 0px 5px 80px #00000029;
+  border-radius: 50px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  background-image: url("../images/Path 23.svg");
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+}
+
+#d3 div {
+  margin: 20px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+#d3 img {
+  width: 80px;
+  height: 80px;
+}
+/*# sourceMappingURL=index.css.map */
